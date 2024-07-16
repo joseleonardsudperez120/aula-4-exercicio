@@ -1,0 +1,176 @@
+
+    .main-container {
+      margin-left: 21px;
+      max-width: 883px;
+      height: 2865;
+      background: #ffffff 0% 0% no-repeat padding-box;
+      opacity: 1;
+      display: flex;
+      flex-direction: column;
+    }
+
+    img {
+      max-width: 883px;
+      max-height: 374px;
+      margin-bottom: 21.5px;
+    }
+
+    .recipe-title {
+      margin: 0 0 10px 0;
+      top: 420px;
+      left: 21px;
+      width: 884px;
+      height: 187px;
+      text-align: left;
+      font: normal normal 900 89px/79px Montserrat;
+      letter-spacing: 0px;
+      color: #ffb300;
+      opacity: 1;
+    }
+
+    .author-text {
+      margin: 0 0 34px 0;
+      width: 884px;
+      height: 28px;
+      text-align: right;
+      font: normal normal bold 21px/34px Montserrat;
+      letter-spacing: 0px;
+      color: #000000;
+      opacity: 1;
+    }
+
+    .about-dish {
+      margin: 0 0 70px 0;
+      width: 883px;
+      height: 197px;
+      text-align: left;
+      font: normal normal 600 21px/34px Montserrat;
+      letter-spacing: 0px;
+      color: #000000;
+      opacity: 1;
+    }
+
+    .preparation-info {
+      border-bottom: 5px solid #999999;
+      border-top: 5px solid #999999;
+    }
+
+    .preparation-info-time {
+      margin: 29px 0 34px 0;
+    }
+
+    .preparation-info-ration {
+      margin: 0 0 29px 0;
+    }
+
+    .preparation-info-bold-text {
+      width: 123px;
+      height: 25px;
+      text-align: left;
+      font: normal normal 900 21px/25px Montserrat;
+      letter-spacing: 0px;
+      color: #000000;
+    }
+
+    .preparation-info-text {
+      width: 135px;
+      height: 25px;
+      text-align: left;
+      font: normal normal 21px/25px Montserrat;
+      letter-spacing: 0px;
+      color: #000000;
+    }
+
+    .ingredients-title {
+      width: 235px;
+      height: 42px;
+      margin: 34px 19px 0 0;
+      /* UI Properties */
+      text-align: left;
+      font: normal normal 900 34px/42px Montserrat;
+      letter-spacing: 0px;
+      color: #ffb300;
+      opacity: 1;
+    }
+
+    .ingredient-list-container {
+      margin-bottom: 23px;
+      width: 753px;
+      height: 366px;
+      text-align: left;
+      font: normal normal 600 21px/34px Montserrat;
+      letter-spacing: 0px;
+      color: #000000;
+      opacity: 1;
+    }
+    .ingredients-container {
+      border-bottom: 5px solid #999999;
+    }
+
+    .preparation-steps-container {
+      margin-top: 1px;
+      border-bottom: 5px solid #999999;
+    }
+
+    .preparation-title {
+      width: 315px;
+      height: 42px;
+      margin-top: 34px;
+      margin-bottom: 35px;
+      /* UI Properties */
+      text-align: left;
+      font: normal normal 900 34px/42px Montserrat;
+      letter-spacing: 0px;
+      color: #ffb300;
+      opacity: 1;
+    }
+
+    .preparation-steps {
+    }
+
+    .preparation-steps {
+      margin-top: 34px;
+      margin-bottom: 30px;
+      max-width: 844px;
+      max-height: 380px;
+      /* UI Properties */
+      text-align: left;
+      font: normal normal 600 21px/34px Montserrat;
+      letter-spacing: 0px;
+      color: #000000;
+      opacity: 1;
+    }
+
+    .recipe-video-title {
+      margin-top: 34.5px;
+      margin-bottom: 35px;
+      width: 311px;
+      height: 42px;
+      text-align: left;
+      font: normal normal 900 34px/42px Montserrat;
+      letter-spacing: 0px;
+      color: #ffb300;
+      opacity: 1;
+    }
+
+    .recipe-video-iframe {
+      width: 883px;
+      height: 497px;
+      /* UI Properties */
+      border: 1px solid #707070;
+      opacity: 1;
+    }
+
+    .go-back-to-top {
+      margin-top: 31px;
+      margin-bottom: 110px;
+      width: 263px;
+      height: 25px;
+      text-align: left;
+      text-decoration: underline;
+      font: normal normal 900 21px/25px Montserrat;
+      letter-spacing: 0px;
+      color: #0037b3;
+      text-transform: uppercase;
+      opacity: 1;
+    }
